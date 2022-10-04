@@ -1,6 +1,7 @@
 #SpeechRecog.python
 #2022-10-02 ver
 #https://prlabhotelshoe.tistory.com/8?category=995004
+#test!!!!!
 import speech_recognition as sr
 
 r = sr.Recognizer()
